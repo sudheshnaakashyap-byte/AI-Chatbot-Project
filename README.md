@@ -17,3 +17,6 @@ The chatbot responds to greetings and basic questions.
 
 ## Author
 Sudheshnaa S
+
+## Output
+![Chatbot Output]("C:\Users\Sudheshnaa s\OneDrive\Pictures\Screenshots\output.png")
